@@ -1,4 +1,4 @@
-scorees = (70,80,5)
+scorees = (70,80,50)
 print(scores)
 print(scores[0])
 print("要素数は{}".format(len(scorees)))
